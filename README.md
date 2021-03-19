@@ -35,7 +35,7 @@
 
 
 ## Screenshots and GIFs
-Click on image to view fullscreen and zoom
+Click on image to view fullscreen and zoom    
 
 ### Desktop
 [IMAGE](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/desktop-all-with-link.png)
