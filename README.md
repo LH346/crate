@@ -27,7 +27,7 @@
 ## Useful for
 - Developers with basic knowledge on React exploring advance React projects
 - Developers learning React Native
-- Exploring GraphQL
+- Exploring GraphQL   
 - Scalable project structure and code
 - Starter application for Mobile and Web along with SSR
 - Multi-package scripts
