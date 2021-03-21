@@ -2,7 +2,7 @@
 
 # Crate 👕👖📦     
 
-#### Get monthly subscription of trendy clothes and accessories.
+#### Get monthly subscription of trendy clothes and accessories.     
 - **API** built with Node, GraphQL, Express, Sequelize (MySQL) and JWT Auth
 - **WebApp** built with React and Redux along with Server Side Rendering (SSR) / SEO friendly
 - **Mobile** (Android and iOS) Native App build with React Native
